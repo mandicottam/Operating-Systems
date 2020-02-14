@@ -1,2 +1,3 @@
 Windows 10 operating system has a start menu function. The start menu shows the programs I commonly use. It displays the programs in a list and as tiles that I can click on. 
 Windows 10 operating system has a search bar funtion. The search bar is displayed in the lower left hand corner of the screen. I can use the search bar to search for files, programs, and websites. 
+Windows 10 operating system has a task bar function. The task bar is displayed at the bottom of the screen. I can add links to the task bar for the programs I use frequently. 
